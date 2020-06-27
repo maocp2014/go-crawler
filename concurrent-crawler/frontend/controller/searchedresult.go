@@ -1,10 +1,10 @@
 package controller
 
 import (
-	"concurrent-crawler/engine"
-	"concurrent-crawler/frontend/model"
-	"concurrent-crawler/frontend/view"
 	"context"
+	"go-crawler/concurrent-crawler/engine"
+	"go-crawler/concurrent-crawler/frontend/model"
+	"go-crawler/concurrent-crawler/frontend/view"
 	"gopkg.in/olivere/elastic.v5"
 	"net/http"
 	"reflect"

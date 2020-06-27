@@ -1,6 +1,6 @@
 package scheduler
 
-import "concurrent-crawler/engine"
+import "go-crawler/concurrent-crawler/engine"
 
 // 该版本统一scheduler适用于concurrent_v3.go版本
 

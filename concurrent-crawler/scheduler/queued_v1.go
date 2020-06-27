@@ -1,7 +1,7 @@
 package scheduler
 
 import (
-	"concurrent-crawler/engine"
+	"go-crawler/concurrent-crawler/engine"
 )
 
 // scheduler

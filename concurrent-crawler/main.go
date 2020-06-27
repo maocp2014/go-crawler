@@ -1,10 +1,10 @@
 package main
 
 import (
-	"concurrent-crawler/engine"
-	"concurrent-crawler/persist"
-	"concurrent-crawler/scheduler"
-	"concurrent-crawler/zhenai/parser"
+	"go-crawler/concurrent-crawler/engine"
+	"go-crawler/concurrent-crawler/persist"
+	"go-crawler/concurrent-crawler/scheduler"
+	"go-crawler/concurrent-crawler/zhenai/parser"
 )
 
 func main() {

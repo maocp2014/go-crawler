@@ -1,8 +1,8 @@
 package engine
 
 import (
-	"concurrent-crawler/fetcher"
 	"fmt"
+	"go-crawler/concurrent-crawler/fetcher"
 	"log"
 	"strings"
 )

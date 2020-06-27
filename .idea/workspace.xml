@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f95e87-3286-4a73-9374-1950ca1c9dc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/go-crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/go-crawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/concurrent-crawler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/dictionaries/maocp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/engine/origin_engine.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/engine/origin_engine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/engine/worker.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/engine/worker.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/frontend/controller/searchedresult.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/frontend/controller/searchedresult.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/frontend/starter.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/frontend/starter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/frontend/view/searchresult.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/frontend/view/searchresult.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/frontend/view/searchresult_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/frontend/view/searchresult_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/persist/itemsaver.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/persist/itemsaver.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/persist/itemsaver_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/persist/itemsaver_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/scheduler/queued_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/scheduler/queued_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/scheduler/queued_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/scheduler/queued_v2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/scheduler/simple_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/scheduler/simple_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/scheduler/simple_v2.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/scheduler/simple_v2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/city.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/city.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/citylist.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/citylist.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/profile.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/profile.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/profile_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent-crawler/zhenai/parser/profile_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +39,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/concurrent-crawler" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1dqkJYgC2H6W21rE6vmTXfXheMf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
@@ -27,8 +66,14 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GolandWorkspace\go-crawler\concurrent-crawler" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,6 +129,6 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-    <proxy>direct</proxy>
+    <proxy>https://mirrors.aliyun.com/goproxy/</proxy>
   </component>
 </project>

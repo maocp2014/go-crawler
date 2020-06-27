@@ -1,7 +1,7 @@
 package main
 
 import (
-	"concurrent-crawler/frontend/controller"
+	"go-crawler/concurrent-crawler/frontend/controller"
 	"net/http"
 )
 

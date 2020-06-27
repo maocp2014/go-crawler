@@ -1,10 +1,10 @@
 package persist
 
 import (
-	"concurrent-crawler/engine"
-	"concurrent-crawler/model"
 	"context"
 	"encoding/json"
+	"go-crawler/concurrent-crawler/engine"
+	"go-crawler/concurrent-crawler/model"
 	"gopkg.in/olivere/elastic.v5"
 	"testing"
 )

@@ -1,6 +1,6 @@
 package scheduler
 
-import "concurrent-crawler/engine"
+import "go-crawler/concurrent-crawler/engine"
 
 // 所有worker共用一个input channel输入request
 type SimpleSchedulerV1 struct {

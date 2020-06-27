@@ -1,9 +1,9 @@
 package view
 
 import (
-	"concurrent-crawler/engine"
-	"concurrent-crawler/frontend/model"
-	common "concurrent-crawler/model"
+	"go-crawler/concurrent-crawler/engine"
+	"go-crawler/concurrent-crawler/frontend/model"
+	common "go-crawler/concurrent-crawler/model"
 	"os"
 	"testing"
 )

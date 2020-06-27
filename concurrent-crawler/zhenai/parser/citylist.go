@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"concurrent-crawler/engine"
 	"fmt"
+	"go-crawler/concurrent-crawler/engine"
 	"regexp"
 )
 

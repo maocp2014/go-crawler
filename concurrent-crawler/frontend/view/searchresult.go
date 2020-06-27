@@ -1,7 +1,7 @@
 package view
 
 import (
-	"concurrent-crawler/frontend/model"
+	"go-crawler/concurrent-crawler/frontend/model"
 	"html/template"
 	"io"
 )
